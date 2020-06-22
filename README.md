@@ -1,4 +1,6 @@
-# vue-crash-course
+# Vue Crash Course
+
+A simple To Do List app created by following [this Vue Crash Course](https://www.youtube.com/watch?v=Wy9q22isx3U) by Traversy Media.
 
 ## Project setup
 ```
